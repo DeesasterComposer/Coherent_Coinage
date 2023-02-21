@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_coin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:copper_coin"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/gold_block.png",
+    "description": {
+      "translate": "advancements.currency.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "coherentcoinage:copper_coin"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.currency.root.title"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "coherentcoinage:piggy_bank"
+    },
+    "title": {
+      "translate": "advancements.currency.craft_piggy_bank.title"
+    },
+    "description": {
+      "translate": "advancements.currency.craft_piggy_bank.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "coherentcoinage:currency/craft_coin_purse",
+  "criteria": {
+    "crafted_piggy_bank": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:piggy_bank"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

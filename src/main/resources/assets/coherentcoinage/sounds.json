@@ -1,0 +1,97 @@
+{
+  "item.coin.drop": {
+    "subtitle": "subtitle.item.coherentcoinage.coin.drop",
+    "sounds": [
+      "coherentcoinage:item/coin/drop0",
+      "coherentcoinage:item/coin/drop1",
+      "coherentcoinage:item/coin/drop2",
+      "coherentcoinage:item/coin/drop3",
+      "coherentcoinage:item/coin/drop4",
+      "coherentcoinage:item/coin/drop5",
+      "coherentcoinage:item/coin/heavy_drop0",
+      "coherentcoinage:item/coin/heavy_drop1",
+      "coherentcoinage:item/coin/heavy_drop2",
+      "coherentcoinage:item/coin/heavy_drop3"
+    ]
+  },
+  "item.coin_purse.remove_one": {
+    "subtitle": "subtitle.item.coherentcoinage.coin_purse.remove_one",
+    "sounds": [
+      "coherentcoinage:item/coin_purse/remove_one0",
+      "coherentcoinage:item/coin_purse/remove_one1",
+      "coherentcoinage:item/coin_purse/remove_one2",
+      "coherentcoinage:item/coin_purse/remove_one3",
+      "coherentcoinage:item/coin_purse/remove_one4",
+      "coherentcoinage:item/coin_purse/remove_one5",
+      "coherentcoinage:item/coin_purse/remove_one6",
+      "coherentcoinage:item/coin_purse/remove_one7",
+      "coherentcoinage:item/coin_purse/remove_one8",
+      "coherentcoinage:item/coin_purse/remove_one9"
+    ]
+  },
+  "item.coin_purse.insert": {
+    "subtitle": "subtitle.item.coherentcoinage.coin_purse.insert",
+    "sounds": [
+      "coherentcoinage:item/coin_purse/insert0",
+      "coherentcoinage:item/coin_purse/insert1",
+      "coherentcoinage:item/coin_purse/insert2",
+      "coherentcoinage:item/coin_purse/insert3",
+      "coherentcoinage:item/coin_purse/insert4",
+      "coherentcoinage:item/coin_purse/insert5",
+      "coherentcoinage:item/coin_purse/insert6",
+      "coherentcoinage:item/coin_purse/insert7",
+      "coherentcoinage:item/coin_purse/insert8",
+      "coherentcoinage:item/coin_purse/insert9"
+    ]
+  },
+  "item.coin_purse.insert_full": {
+    "subtitle": "subtitle.item.coherentcoinage.coin_purse.insert_full",
+    "sounds": [
+      "coherentcoinage:item/coin_purse/insert_full0",
+      "coherentcoinage:item/coin_purse/insert_full1",
+      "coherentcoinage:item/coin_purse/insert_full2",
+      "coherentcoinage:item/coin_purse/insert_full3"
+    ]
+  },
+  "item.coin_purse.drop_contents": {
+    "subtitle": "subtitle.item.coherentcoinage.coin_purse.drop_contents",
+    "sounds": [
+      "coherentcoinage:item/coin_purse/drop_contents0",
+      "coherentcoinage:item/coin_purse/drop_contents1",
+      "coherentcoinage:item/coin_purse/drop_contents2",
+      "coherentcoinage:item/coin_purse/drop_contents3",
+      "coherentcoinage:item/coin_purse/drop_contents4"
+    ]
+  },
+  "block.piggy_bank.deposit": {
+    "subtitle": "subtitle.block.coherentcoinage.piggy_bank.deposit",
+    "sounds": [
+      "coherentcoinage:block/piggy_bank/deposit0",
+      "coherentcoinage:block/piggy_bank/deposit1",
+      "coherentcoinage:block/piggy_bank/deposit2",
+      "coherentcoinage:block/piggy_bank/deposit3",
+      "coherentcoinage:block/piggy_bank/deposit4",
+      "coherentcoinage:block/piggy_bank/deposit5",
+      "coherentcoinage:block/piggy_bank/deposit6",
+      "coherentcoinage:block/piggy_bank/deposit7",
+      "coherentcoinage:block/piggy_bank/deposit8",
+      "coherentcoinage:block/piggy_bank/deposit9"
+    ]
+  },
+  "block.safe.open": {
+    "subtitle": "subtitle.block.coherentcoinage.safe.open",
+    "sounds": [
+      "coherentcoinage:block/safe/open0",
+      "coherentcoinage:block/safe/open1",
+      "coherentcoinage:block/safe/open2"
+    ]
+  },
+  "block.safe.close": {
+    "subtitle": "subtitle.block.coherentcoinage.safe.close",
+    "sounds": [
+      "coherentcoinage:block/safe/close0",
+      "coherentcoinage:block/safe/close1",
+      "coherentcoinage:block/safe/close2"
+    ]
+  }
+}

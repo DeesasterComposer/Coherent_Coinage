@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "coherentcoinage:iron_coin"
+    },
+    "title": {
+      "translate": "advancements.currency.obtain_an_iron_coin.title"
+    },
+    "description": {
+      "translate": "advancements.currency.obtain_an_iron_coin.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "coherentcoinage:currency/root",
+  "criteria": {
+    "has_coin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:iron_coin"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

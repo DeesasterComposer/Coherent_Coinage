@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "coherentcoinage:netherite_coin_purse"
+    },
+    "title": {
+      "translate": "advancements.currency.smith_netherite_coin_purse.title"
+    },
+    "description": {
+      "translate": "advancements.currency.smith_netherite_coin_purse.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "coherentcoinage:currency/craft_coin_purse",
+  "criteria": {
+    "crafted_safe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:netherite_coin_purse"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

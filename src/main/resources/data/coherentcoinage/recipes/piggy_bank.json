@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "o$o",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:pink_terracotta"
+    },
+    "$": {
+      "item": "coherentcoinage:golden_coin"
+    }
+  },
+  "result": {
+    "item": "coherentcoinage:piggy_bank"
+  }
+}

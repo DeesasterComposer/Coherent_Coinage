@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "coherentcoinage:golden_coin"
+    },
+    "title": {
+      "translate": "advancements.currency.obtain_a_golden_coin.title"
+    },
+    "description": {
+      "translate": "advancements.currency.obtain_a_golden_coin.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "coherentcoinage:currency/obtain_an_iron_coin",
+  "criteria": {
+    "has_coin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:golden_coin"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

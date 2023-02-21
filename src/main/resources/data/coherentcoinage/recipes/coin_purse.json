@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "oHo",
+    "H$H",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "$": {
+      "item": "coherentcoinage:copper_coin"
+    },
+    "o": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "coherentcoinage:coin_purse"
+  }
+}

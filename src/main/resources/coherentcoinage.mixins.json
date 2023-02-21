@@ -4,9 +4,12 @@
   "package": "net.deesaster.coherentcoinage.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ModPiggyBankSaverMixin",
+    "ModSafeSaverMixin",
+    "ModCoinDropMixin",
+    "ModCoinThrowMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1

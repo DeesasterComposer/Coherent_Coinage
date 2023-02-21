@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "coherentcoinage:block/piggy_bank",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "coherentcoinage:block/piggy_bank"
+    },
+    "facing=south": {
+      "model": "coherentcoinage:block/piggy_bank",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coherentcoinage:block/piggy_bank",
+      "y": 270
+    }
+  }
+}

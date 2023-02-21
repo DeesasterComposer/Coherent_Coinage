@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_golden_coin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:golden_coin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_golden_coin"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "coherentcoinage:gold_nugget_from_smelting_coin"
+    ]
+  }
+}

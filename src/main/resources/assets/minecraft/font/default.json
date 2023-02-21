@@ -1,0 +1,40 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "coherentcoinage:font/platinum_coin.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\uF433"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "coherentcoinage:font/golden_coin.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\uF432"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "coherentcoinage:font/iron_coin.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\uF431"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "coherentcoinage:font/copper_coin.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\uF430"
+      ]
+    }
+  ]
+}

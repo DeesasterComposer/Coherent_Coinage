@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "o$o",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:iron_block"
+    },
+    "$": {
+      "item": "coherentcoinage:platinum_coin"
+    }
+  },
+  "result": {
+    "item": "coherentcoinage:safe"
+  }
+}

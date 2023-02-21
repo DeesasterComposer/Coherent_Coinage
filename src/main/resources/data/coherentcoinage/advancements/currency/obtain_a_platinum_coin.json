@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "coherentcoinage:platinum_coin"
+    },
+    "title": {
+      "translate": "advancements.currency.obtain_a_platinum_coin.title"
+    },
+    "description": {
+      "translate": "advancements.currency.obtain_a_platinum_coin.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "coherentcoinage:currency/obtain_a_golden_coin",
+  "criteria": {
+    "has_platinum_coin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coherentcoinage:platinum_coin"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

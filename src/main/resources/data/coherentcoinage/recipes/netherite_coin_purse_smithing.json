@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "coherentcoinage:coin_purse"
+  },
+  "result": {
+    "item": "coherentcoinage:netherite_coin_purse"
+  }
+}

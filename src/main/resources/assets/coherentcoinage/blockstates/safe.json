@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "coherentcoinage:block/safe",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "coherentcoinage:block/safe"
+    },
+    "facing=south": {
+      "model": "coherentcoinage:block/safe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coherentcoinage:block/safe",
+      "y": 270
+    }
+  }
+}

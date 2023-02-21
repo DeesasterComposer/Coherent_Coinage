@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "coherentcoinage:item/netherite_coin_purse"
+    },
+    "overrides": [
+        { "predicate": { "filled": 0.0000001 }, "model": "coherentcoinage:item/netherite_coin_purse_filled" }
+    ]
+}

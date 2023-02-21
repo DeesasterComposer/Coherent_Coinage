@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#coherentcoinage:coins",
+    "coherentcoinage:coin_purse"
+  ]
+}
